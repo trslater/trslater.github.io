@@ -1,3 +1,5 @@
-# Tristan Slater
+# trslater/
 
-This is my site.
+Software engineer.
+
+[Résumé](/resume/)
