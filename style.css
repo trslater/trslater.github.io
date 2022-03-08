@@ -1,0 +1,19 @@
+body {
+    color: white;
+    font-family: "Roboto Mono", monospace;
+    font-weight: 400;
+
+    background-color: cornflowerblue;
+    
+    margin: 4rem;
+}
+
+h1 {
+    font-weight: 100;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    border-bottom: 3px solid coral;
+}
