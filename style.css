@@ -17,3 +17,11 @@ a {
     text-decoration: none;
     border-bottom: 3px solid coral;
 }
+
+#github-link {
+    border: 0;
+}
+
+#github-link img {
+    width: 30px;
+}
