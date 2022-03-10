@@ -3,3 +3,6 @@ site_name: Tristan Slater
 theme:
   name: null
   custom_dir: theme
+
+markdown_extensions:
+  - attr_list
