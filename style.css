@@ -1,21 +1,29 @@
+:root {
+    --paper: #bbb;
+    --accent: #af0;
+    --black: #666;
+}
+
 body {
-    color: white;
+    color: var(--black);
     font-family: "Roboto Mono", monospace;
     font-weight: 400;
 
-    background-color: cornflowerblue;
+    background-color: var(--paper);
     
-    margin: 4rem;
+    margin: 2vw;
 }
 
 h1 {
+    display: inline-block;
+    background-color: var(--accent);
     font-weight: 100;
 }
 
 a {
-    color: white;
+    color: var(--black);
     text-decoration: none;
-    border-bottom: 3px solid coral;
+    border-bottom: 3px solid var(--accent);
 }
 
 #github-link {
@@ -24,4 +32,5 @@ a {
 
 #github-link img {
     width: 30px;
+    fill: var(--black);
 }
