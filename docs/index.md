@@ -7,4 +7,4 @@ hide:
 
 Software engineer extraordinaire!
 
-[Résumé](/resume/){ .md-button }
+[Résumé](/resume/){ .md-button target=_blank }
