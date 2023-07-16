@@ -3,7 +3,6 @@ site_url: https://trslater.ca
 
 theme:
   name: material
-  custom_dir: overrides
   palette:
     scheme: slate
     primary: deep purple
