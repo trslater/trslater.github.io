@@ -1,7 +1,10 @@
-# trslater/
+---
+hide:
+  - navigation
+---
 
-Software engineer.
+# Hi, I'm Tristan
 
-[Résumé](/resume/)
+Software engineer extraordinaire!
 
-[![GitHub](github.svg)](https://github.com/trslater){: #github-link }
+[Résumé](/resume/){ .md-button }
