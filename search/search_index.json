@@ -1,1 +1,1 @@
-{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"trslater/ Software engineer. R\u00e9sum\u00e9","title":"trslater/"},{"location":"#trslater","text":"Software engineer. R\u00e9sum\u00e9","title":"trslater/"}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Hi, I'm Tristan","text":"<p>Software engineer extraordinaire!</p> <p>R\u00e9sum\u00e9</p>"}]}
