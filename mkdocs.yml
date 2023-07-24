@@ -1,7 +1,7 @@
 site_name: Tristan Slater
 site_url: https://trslater.ca
-# repo_name: trslater/trslater.github.io
-# repo_url: https://github.com/trslater/trslater.github.io
+repo_name: trslater/trslater.github.io
+repo_url: https://github.com/trslater/trslater.github.io
 
 theme:
   name: material
