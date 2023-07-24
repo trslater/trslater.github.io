@@ -3,6 +3,7 @@ site_url: https://trslater.ca
 
 theme:
   name: material
+  logo: assets/images/logo.svg
   palette:
     scheme: slate
     primary: deep purple
