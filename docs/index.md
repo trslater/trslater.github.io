@@ -1,6 +1,8 @@
 ---
+template: home.html
 hide:
   - navigation
+  - toc
 ---
 
 # Hi, I'm Tristan

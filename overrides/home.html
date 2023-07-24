@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+<link rel="stylesheet" href="{{ 'assets/stylesheets/overrides.css'|url }}">
+{% endblock %}
+
+{% block content %}
+<div class="hero-container">
+    {{ page.content }}
+</div>
+{% endblock %}

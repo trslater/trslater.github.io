@@ -4,10 +4,14 @@ site_url: https://trslater.ca
 theme:
   name: material
   logo: assets/images/logo.svg
+  custom_dir: overrides
   palette:
     scheme: slate
     primary: deep purple
     accent: teal
+
+markdown_extensions:
+  - attr_list
 
 extra:
   social:
@@ -16,5 +20,5 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/tristanslater/
 
-markdown_extensions:
-  - attr_list
+watch:
+  - overrides
