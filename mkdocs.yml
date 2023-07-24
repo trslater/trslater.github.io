@@ -12,6 +12,8 @@ theme:
     primary: deep purple
     accent: teal
 
+plugins: []
+
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:

@@ -1,3 +1,16 @@
+.md-header {
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.md-header__inner {
+    justify-content: space-between;
+}
+
+.md-header__title {
+    display: none;
+}
+
 .hero-container {
     box-sizing: border-box;
     flex-grow: 1;
