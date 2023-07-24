@@ -9,4 +9,4 @@ hide:
 
 Software engineer extraordinaire!
 
-[Résumé](/downloads/resume.pdf){ .md-button target=_blank }
+[:fontawesome-solid-file-arrow-down: Résumé](/downloads/resume.pdf){ .md-button target=_blank }
