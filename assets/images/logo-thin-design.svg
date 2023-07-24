@@ -1,0 +1,52 @@
+<svg height="8" width="14" xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="
+      M 1 1
+      a 2 2 0 0 0 2 2
+      a 2 2 0 0 0 0 4
+      l 4 0
+      a 2 2 0 0 0 2 -2
+      a 2 2 0 0 1 2 -2
+      M 7 3
+      a 2 2 0 0 0 -2 2
+      l 0 2
+    "
+    style="
+      fill: none;
+      stroke: white;
+      stroke-width: 0.125;
+      stroke-linejoin: round;
+      stroke-linecap: round;
+    "
+  />
+  <path
+    d="
+      M 1 1
+      l 0 6
+      m 2 0
+      l 0 -6
+      m 2 0
+      l 0 6
+      m 2 0
+      l 0 -6
+      m 2 0
+      l 0 6
+      m 2 0
+      l 0 -6
+      M 1 1
+      l 10 0
+      m 0 2
+      l -10 0
+      m 0 2
+      l 10 0
+      m 0 2
+      l -10 0
+    "
+    style="
+      fill: none;
+      stroke: gray;
+      stroke-width: 0.02;
+      stroke-dasharray: 0.2,0.2;
+    "
+  />
+</svg>

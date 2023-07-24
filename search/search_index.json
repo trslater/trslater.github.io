@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Hi, I'm Tristan","text":"<p>Software engineer extraordinaire!</p> <p>R\u00e9sum\u00e9</p>"}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Hi, I'm Tristan","text":"<p>Software engineer extraordinaire!</p>"}]}
