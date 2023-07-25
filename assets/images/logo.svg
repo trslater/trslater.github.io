@@ -1,31 +1,22 @@
-<svg id="logo-svg" height="8" width="14" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <link href="style.css" type="text/css" rel="stylesheet" 
-          xmlns="http://www.w3.org/1999/xhtml"/>
-  </defs>
+<svg height="8" width="14" xmlns="http://www.w3.org/2000/svg">
   <path
     d="
       M 1 1
       a 2 2 0 0 0 2 2
       a 2 2 0 0 0 0 4
-      l 5 0
+      a 2 2 0 0 0 2 -2
+      a 2 2 0 0 1 2 -2 
+      m 0 4
       a 2 2 0 0 0 2 -2
       a 2 2 0 0 1 2 -2
-      l 1 0
-      l -2 0
-      a 2 2 0 0 0 -2 2
-      a 2 2 0 0 1 -2 2
-      l -1 0
-      l 0 -2
-      a 2 2 0 0 1 2 -2
-      l 1 0
-      l -2 0
-      a 2 2 0 0 0 -2 2
-      l 0 2
-      l -1 0
-      a 2 2 0 0 1 0 -4
-      a 2 2 0 0 1 -2 -2
-      Z
+    "
+    style="
+      fill: none;
+      stroke: white;
+      stroke-width: 0.5;
+      stroke-linejoin: round;
+      stroke-linecap: round;
     "
   />
+  <!-- <circle cx="11" cy="7" r="0.5" style="stroke: none; fill: white;" /> -->
 </svg>
